@@ -34,6 +34,3 @@ This repository contains Infrastructure as Code (IaC) using Terraform to automat
 - `variables.tf` - Variable definitions
 - `outputs.tf` - Output definitions
 
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or creating issues.
